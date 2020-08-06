@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2500px" height="1780px" viewBox="0 0 2500 1780" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAA14A" offset="0%"></stop>
+            <stop stop-color="#F46824" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E5EBF7" offset="0%"></stop>
+            <stop stop-color="#C7D3ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="31.0807033%" y2="118.388885%" id="linearGradient-3">
+            <stop stop-color="#29ACE1" offset="0%"></stop>
+            <stop stop-color="#1274BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#29ACE1" offset="0%"></stop>
+            <stop stop-color="#1274BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.498209635">
+        <g id="Group">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="782.828283" cy="446.859903" r="446.859903"></circle>
+            <circle id="Oval" fill="url(#linearGradient-2)" cx="1135.81467" cy="1304.89679" r="388.120334"></circle>
+            <circle id="Oval" fill="url(#linearGradient-3)" cx="1947.73825" cy="558.849363" r="552.261748"></circle>
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="2171.71717" cy="1451.47123" r="328.282828"></circle>
+            <path d="M243.741765,1404.25999 C378.356625,1404.25999 487.483531,1295.13309 487.483531,1160.51823 C487.483531,1145.28347 486.085822,1130.37517 483.411641,1115.91455 C462.456659,1002.60066 363.12187,916.77646 243.741765,916.77646 C109.126906,916.77646 0,1025.90337 0,1160.51823 C0,1295.13309 109.126906,1404.25999 243.741765,1404.25999 Z" id="Oval" fill="url(#linearGradient-4)"></path>
+        </g>
+    </g>
+</svg>
