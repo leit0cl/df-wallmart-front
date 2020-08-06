@@ -1,7 +1,7 @@
-import React, { Component } from "../../../node_modules/@types/react";
-import { withStyles } from '../../../node_modules/@material-ui/core/styles';
-import { AppBar, Toolbar, Grid, InputBase, IconButton } from '../../../node_modules/@material-ui/core';
-import SearchIcon from '../../../node_modules/@material-ui/icons/Search';
+import React, { Component } from "react";
+import { withStyles } from '@material-ui/core/styles';
+import { AppBar, Toolbar, Grid, InputBase, IconButton } from '@material-ui/core';
+import SearchIcon from '@material-ui/icons/Search';
 import logo from '../../resources/logo.svg';
 
 

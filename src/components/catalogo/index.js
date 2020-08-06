@@ -1,6 +1,6 @@
-import React, { Component } from "../../../node_modules/@types/react";
-import { withStyles } from '../../../node_modules/@material-ui/core/styles';
-import { Grid } from '../../../node_modules/@material-ui/core';
+import React, { Component } from "react";
+import { withStyles } from '@material-ui/core/styles';
+import { Grid } from '@material-ui/core';
 import ProductoCard from "./productoCard";
 
 

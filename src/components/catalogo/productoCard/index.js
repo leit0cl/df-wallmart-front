@@ -1,8 +1,8 @@
-import React, { Component } from '../../../../node_modules/@types/react';
-import { withStyles } from '../../../../node_modules/@material-ui/core/styles';
-import { Grid, Divider } from '../../../../node_modules/@material-ui/core';
+import React, { Component } from 'react';
+import { withStyles } from '@material-ui/core/styles';
+import { Grid, Divider } from '@material-ui/core';
 import loader from '../../../resources/loader.gif';
-import axios from '../../../../node_modules/axios';
+import axios from 'axios';
 
 const GridMain = withStyles({
     root: {

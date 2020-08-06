@@ -1,5 +1,5 @@
 
-import React, { Component } from "../node_modules/@types/react";
+import React, { Component } from "react";
 import BarraArriba from './components/header';
 import Catalogo from './components/catalogo';
 import axios from '../node_modules/axios';
